@@ -1,0 +1,23 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+}
+
+.hero {
+  display: grid;
+  place-items: center;
+  height: 100%;
+  background-color: #525752;
+}
+
+h1 {
+  font-size: 6rem;
+  color: white;
+}
+
+/*# sourceMappingURL=styles.css.map */
